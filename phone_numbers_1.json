@@ -1,0 +1,48 @@
+{
+    "Harley": {
+        "telephone number(-s)": [
+            "+380(50)1352468"
+        ],
+        "Email": "harley.qween@outlook.com",
+        "Birthday": {
+            "value": "04/12/2016 00:00:00",
+            "__datetime__": true
+        }
+    },
+    "Anton": {
+        "telephone number(-s)": [
+            "+380(95)7010291",
+            "+380(66)7775689"
+        ],
+        "Email": "for.program.learning@gmail.com",
+        "Birthday": {
+            "value": "06/01/1990 00:00:00",
+            "__datetime__": true
+        }
+    },
+    "Christine": {
+        "telephone number(-s)": [
+            "+380(50)0833605"
+        ],
+        "Email": "chris.sg@gmail.com",
+        "Birthday": {
+            "value": "22/12/1993 00:00:00",
+            "__datetime__": true
+        }
+    },
+    "Kate (admin at Atlas)": {
+        "telephone number(-s)": [
+            "+380(99)1234567"
+        ],
+        "Email": "kate.atlas@gmail.com",
+        "Birthday": null
+    },
+    "Jessica": {
+        "telephone number(-s)": [],
+        "Email": null,
+        "Birthday": {
+            "value": "10/12/2015 00:00:00",
+            "__datetime__": true
+        }
+    }
+}
